@@ -2,7 +2,7 @@
 
 
 ### Education
-Computer Science, B.S
+Computer Science, B.S <br>
 Minor in Mathematics
 
 ### Work Experience
