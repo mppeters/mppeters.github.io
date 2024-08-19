@@ -6,9 +6,9 @@ Computer Science, B.S <br>
 Minor in Mathematics
 
 ## **Skills**
-### Programming Languages: <p> Python, Java, C, C++, SQL <p>
-### Libraries: <p> Pandas, Numpy, TensorFlow, Scikit-Learn, Matplotlib, Streamlit <p>
-### Other: <p> MS SQL, MS SSIS, Git, Tableau <p>
+### Programming Languages: Python, Java, C, C++, SQL
+### Libraries: Pandas, Numpy, TensorFlow, Scikit-Learn, Matplotlib, Streamlit
+### Other: MS SQL, MS SSIS, Git, Tableau
 
 ## **Work Experience**
 Data and Analytics Developer @ The Kendall group
