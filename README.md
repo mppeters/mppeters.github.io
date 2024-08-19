@@ -1,6 +1,6 @@
 # <span style="font-size: 30px;">Mitchell Peters</span>
 
-## **Data Scientist**
+## **Data and Analytics Developer**
 ## **Education**
 Computer Science, B.S <br>
 Minor in Mathematics
