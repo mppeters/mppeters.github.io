@@ -1,4 +1,4 @@
-# **Data analyst**
+# **Data Analyst**
 
 ### **Skills**
 #### Programming Languages: Python, Java, C, C++, SQL
@@ -6,7 +6,7 @@
 #### Other: MS SQL, MS SSIS, Git, Tableau
 
 ## **Education**
-- B.S., Computer Science | Grand Valley State University (May 2024)
+- B.S., Computer Science | Grand Valley State University (_May 2024_)
 - Minor in Mathematics
 
 ## **Work Experience**
@@ -19,3 +19,6 @@ Information Systems Intern @ The Kendall Group
 * Utilize Excel and Python to modify and prepare data for use within a new PIM
 * Assisted multiple departments in need of new, modified, or cleaned data.
 * Created Powershell scripts to automate simple tasks done daily by IT
+
+## **Projects**
+
