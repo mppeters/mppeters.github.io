@@ -1,14 +1,13 @@
-# <span style="font-size: 30px;">Mitchell Peters</span>
+# **Data analyst**
 
-## **Data analyst**
+### **Skills**
+#### Programming Languages: Python, Java, C, C++, SQL
+#### Libraries: Pandas, Numpy, TensorFlow, Scikit-Learn, Matplotlib, Streamlit
+#### Other: MS SQL, MS SSIS, Git, Tableau
+
 ## **Education**
-Computer Science, B.S <br>
-Minor in Mathematics
-
-## **Skills**
-### Programming Languages: Python, Java, C, C++, SQL
-### Libraries: Pandas, Numpy, TensorFlow, Scikit-Learn, Matplotlib, Streamlit
-### Other: MS SQL, MS SSIS, Git, Tableau
+- B.S., Computer Science | Grand Valley State University (May 2024)
+- Minor in Mathematics
 
 ## **Work Experience**
 Data and Analytics Developer @ The Kendall group
